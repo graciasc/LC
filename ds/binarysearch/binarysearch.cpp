@@ -27,5 +27,27 @@ int main(){
   cout << "It took me " << numof-1 << " tries" << endl;
 
 
+ int size = 50;
+ int numof = [];
+
+ for(int i = 0; i < 50; i++) {
+   numof.push(i);
+ }
+
+// gotta
+
+ string input;
+
+ cout << "Choose a number between 1-50" << endl; 
+
+cin << input << endl;
+
+ // while --- until numbers match 
+
   return 0;
 }
+
+/**
+ * Add binary search array
+ *
+ * **/
